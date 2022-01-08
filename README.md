@@ -1,2 +1,0 @@
-# thorchain-swap
-THorchain swap 
